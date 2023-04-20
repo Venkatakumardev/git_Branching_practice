@@ -3,7 +3,3 @@ BATA
 Relience
 biral
 aadani
-Infosys
-wipro
-HCL
-
